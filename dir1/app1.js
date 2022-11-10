@@ -1,0 +1,1 @@
+console.log("mtu ni kujitetea sa ukinyamaza hapo ntajua aje we ni crush wangu");
